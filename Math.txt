@@ -1,0 +1,18 @@
+Notes
+
+Start width = .1
+
+End width = variable.
+
+
+Math
+
+theta = arctan(end width / Laser distance)
+phi_1 = theta + gun angle
+phi_2 = theta - gun angle
+
+//Is below top line?  
+position of target <= y position of gun +  tan(phi_1) x (distance)
+
+//Is above bottom line?
+position of target >= y position of gun +  tan(phi_2) x (distance)
