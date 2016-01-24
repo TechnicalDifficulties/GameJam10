@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 2e8ec686ae7e89e4cb701843576fe9bd
+timeCreated: 1453560941
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Rolling Thunder - Albatross_0
+    21300002: Arcade - Rolling Thunder - Albatross_1
+    21300004: Arcade - Rolling Thunder - Albatross_2
+    21300006: Arcade - Rolling Thunder - Albatross_3
+    21300008: Arcade - Rolling Thunder - Albatross_4
+    21300010: Arcade - Rolling Thunder - Albatross_5
+    21300012: Arcade - Rolling Thunder - Albatross_6
+    21300014: Arcade - Rolling Thunder - Albatross_7
+    21300016: Arcade - Rolling Thunder - Albatross_8
+    21300018: Arcade - Rolling Thunder - Albatross_9
+    21300020: Arcade - Rolling Thunder - Albatross_10
+    21300022: Arcade - Rolling Thunder - Albatross_11
+    21300024: Arcade - Rolling Thunder - Albatross_12
+    21300026: Arcade - Rolling Thunder - Albatross_13
+    21300028: Arcade - Rolling Thunder - Albatross_14
+    21300030: Arcade - Rolling Thunder - Albatross_15
+    21300032: Arcade - Rolling Thunder - Albatross_16
+    21300034: Arcade - Rolling Thunder - Albatross_17
+    21300036: Arcade - Rolling Thunder - Albatross_18
+    21300038: Arcade - Rolling Thunder - Albatross_19
+    21300040: Arcade - Rolling Thunder - Albatross_20
+    21300042: Arcade - Rolling Thunder - Albatross_21
+    21300044: Arcade - Rolling Thunder - Albatross_22
+    21300046: Arcade - Rolling Thunder - Albatross_23
+    21300048: Arcade - Rolling Thunder - Albatross_24
+    21300050: Arcade - Rolling Thunder - Albatross_25
+    21300052: Arcade - Rolling Thunder - Albatross_26
+    21300054: Arcade - Rolling Thunder - Albatross_27
+    21300056: Arcade - Rolling Thunder - Albatross_28
+    21300058: Arcade - Rolling Thunder - Albatross_29
+    21300060: Arcade - Rolling Thunder - Albatross_30
+    21300062: Arcade - Rolling Thunder - Albatross_31
+    21300064: Arcade - Rolling Thunder - Albatross_32
+    21300066: Arcade - Rolling Thunder - Albatross_33
+    21300068: Arcade - Rolling Thunder - Albatross_34
+    21300070: Arcade - Rolling Thunder - Albatross_35
+    21300072: Arcade - Rolling Thunder - Albatross_36
+    21300074: Arcade - Rolling Thunder - Albatross_37
+    21300076: Arcade - Rolling Thunder - Albatross_38
+    21300078: Arcade - Rolling Thunder - Albatross_39
+    21300080: Arcade - Rolling Thunder - Albatross_40
+    21300082: Arcade - Rolling Thunder - Albatross_41
+    21300084: Arcade - Rolling Thunder - Albatross_42
+    21300086: Arcade - Rolling Thunder - Albatross_43
+    21300088: Arcade - Rolling Thunder - Albatross_44
+    21300090: Arcade - Rolling Thunder - Albatross_45
+    21300092: Arcade - Rolling Thunder - Albatross_46
+    21300094: Arcade - Rolling Thunder - Albatross_47
+    21300096: Arcade - Rolling Thunder - Albatross_48
+    21300098: Arcade - Rolling Thunder - Albatross_49
+    21300100: Arcade - Rolling Thunder - Albatross_50
+    21300102: Arcade - Rolling Thunder - Albatross_51
+    21300104: Arcade - Rolling Thunder - Albatross_52
+    21300106: Arcade - Rolling Thunder - Albatross_53
+    21300108: Arcade - Rolling Thunder - Albatross_54
+    21300110: Arcade - Rolling Thunder - Albatross_55
+    21300112: Arcade - Rolling Thunder - Albatross_56
+    21300114: Arcade - Rolling Thunder - Albatross_57
+    21300116: Arcade - Rolling Thunder - Albatross_58
+    21300118: Arcade - Rolling Thunder - Albatross_59
+    21300120: Arcade - Rolling Thunder - Albatross_60
+    21300122: Arcade - Rolling Thunder - Albatross_61
+    21300124: Arcade - Rolling Thunder - Albatross_62
+    21300126: Arcade - Rolling Thunder - Albatross_63
+    21300128: Arcade - Rolling Thunder - Albatross_64
+    21300130: Arcade - Rolling Thunder - Albatross_65
+    21300132: Arcade - Rolling Thunder - Albatross_66
+    21300134: Arcade - Rolling Thunder - Albatross_67
+    21300136: Arcade - Rolling Thunder - Albatross_68
+    21300138: Arcade - Rolling Thunder - Albatross_69
+    21300140: Arcade - Rolling Thunder - Albatross_70
+    21300142: Arcade - Rolling Thunder - Albatross_71
+    21300144: Arcade - Rolling Thunder - Albatross_72
+    21300146: Arcade - Rolling Thunder - Albatross_73
+    21300148: Arcade - Rolling Thunder - Albatross_74
+    21300150: Arcade - Rolling Thunder - Albatross_75
+    21300152: Arcade - Rolling Thunder - Albatross_76
+    21300154: Arcade - Rolling Thunder - Albatross_77
+    21300156: Arcade - Rolling Thunder - Albatross_78
+    21300158: Arcade - Rolling Thunder - Albatross_79
+    21300160: Arcade - Rolling Thunder - Albatross_80
+    21300162: Arcade - Rolling Thunder - Albatross_81
+    21300164: Arcade - Rolling Thunder - Albatross_82
+    21300166: Arcade - Rolling Thunder - Albatross_83
+    21300168: Arcade - Rolling Thunder - Albatross_84
+    21300170: Arcade - Rolling Thunder - Albatross_85
+    21300172: Arcade - Rolling Thunder - Albatross_86
+    21300174: Arcade - Rolling Thunder - Albatross_87
+    21300176: Arcade - Rolling Thunder - Albatross_88
+    21300178: Arcade - Rolling Thunder - Albatross_89
+    21300180: Arcade - Rolling Thunder - Albatross_90
+    21300182: Arcade - Rolling Thunder - Albatross_91
+    21300184: Arcade - Rolling Thunder - Albatross_92
+    21300186: Arcade - Rolling Thunder - Albatross_93
+    21300188: Arcade - Rolling Thunder - Albatross_94
+    21300190: Arcade - Rolling Thunder - Albatross_95
+    21300192: Arcade - Rolling Thunder - Albatross_96
+    21300194: Arcade - Rolling Thunder - Albatross_97
+    21300196: Arcade - Rolling Thunder - Albatross_98
+    21300198: Arcade - Rolling Thunder - Albatross_99
+    21300200: Arcade - Rolling Thunder - Albatross_100
+    21300202: Arcade - Rolling Thunder - Albatross_101
+    21300204: Arcade - Rolling Thunder - Albatross_102
+    21300206: Arcade - Rolling Thunder - Albatross_103
+    21300208: Arcade - Rolling Thunder - Albatross_104
+    21300210: Arcade - Rolling Thunder - Albatross_105
+    21300212: Arcade - Rolling Thunder - Albatross_106
+    21300214: Arcade - Rolling Thunder - Albatross_107
+    21300216: Arcade - Rolling Thunder - Albatross_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Arcade - Rolling Thunder - Albatross_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 779
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 764
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 764
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 765
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 764
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 764
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 764
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 764
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 764
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 765
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 764
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 764
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 785
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 779
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 705
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 705
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 704
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 704
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 704
+        width: 17
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 704
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 704
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 705
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 704
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 705
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 705
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 654
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 644
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 654
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 654
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 594
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 594
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_41
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 581
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 587
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 584
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 587
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 581
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 594
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 594
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 528
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -29}
+        - {x: 16, y: -29}
+        - {x: 16, y: 29}
+        - {x: 4, y: 29}
+        - {x: -4, y: 27}
+    - name: Arcade - Rolling Thunder - Albatross_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 521
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 525
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 527
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 26.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -26.5}
+        - {x: 18, y: -26.5}
+        - {x: 18, y: 26.5}
+    - name: Arcade - Rolling Thunder - Albatross_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 528
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: -12, y: 25}
+        - {x: -22, y: 16}
+        - {x: -22, y: -25}
+        - {x: 8, y: -25}
+        - {x: 22, y: 8}
+        - {x: 22, y: 22}
+    - name: Arcade - Rolling Thunder - Albatross_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 528
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 463
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 468
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -16, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 16, y: 23.5}
+        - {x: 15, y: 25.5}
+    - name: Arcade - Rolling Thunder - Albatross_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 468
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -16, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 16, y: 25.5}
+    - name: Arcade - Rolling Thunder - Albatross_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 465
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 468
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: 8.5}
+        - {x: -11, y: -3.5}
+        - {x: -16, y: -16.5}
+        - {x: -16, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 16, y: 22.5}
+        - {x: 11, y: 25.5}
+    - name: Arcade - Rolling Thunder - Albatross_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 468
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25.5}
+        - {x: -16, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 16, y: 23.5}
+        - {x: 14, y: 25.5}
+    - name: Arcade - Rolling Thunder - Albatross_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 419
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 415
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -10, y: 12}
+        - {x: -9, y: 9}
+        - {x: -1, y: 3}
+        - {x: 2, y: 2}
+        - {x: 5, y: 2}
+        - {x: 0, y: 3}
+        - {x: -5, y: 3}
+        - {x: -7, y: 5}
+        - {x: -27, y: 5}
+        - {x: -28, y: 4}
+        - {x: -28, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: 4}
+        - {x: 22, y: 18}
+        - {x: 12, y: 18}
+        - {x: 8, y: 15}
+    - name: Arcade - Rolling Thunder - Albatross_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 411
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 411
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 415
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 3}
+        - {x: -5, y: 2}
+        - {x: -2, y: 2}
+        - {x: 1, y: 3}
+        - {x: 11, y: 10}
+        - {x: 5, y: 18}
+        - {x: -28, y: 18}
+        - {x: -28, y: -17}
+        - {x: -27, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: 4}
+        - {x: 23, y: 5}
+        - {x: 6, y: 5}
+        - {x: 5, y: 3}
+    - name: Arcade - Rolling Thunder - Albatross_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 419
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 353
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -25, y: 4.5}
+        - {x: -25, y: -20.5}
+        - {x: 9, y: -20.5}
+        - {x: 25, y: 8.5}
+        - {x: 25, y: 17.5}
+        - {x: 17, y: 20.5}
+    - name: Arcade - Rolling Thunder - Albatross_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 357
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16.5}
+        - {x: -23, y: 16.5}
+        - {x: -26, y: 14.5}
+        - {x: -26, y: -9.5}
+        - {x: -21, y: -16.5}
+        - {x: 1, y: -16.5}
+        - {x: 12, y: -14.5}
+        - {x: 26, y: -7.5}
+        - {x: 26, y: 2.5}
+        - {x: 23, y: 12.5}
+    - name: Arcade - Rolling Thunder - Albatross_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 351
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_71
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 357
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16.5}
+        - {x: -19, y: 16.5}
+        - {x: -25, y: 12.5}
+        - {x: -26, y: 8.5}
+        - {x: -26, y: -8.5}
+        - {x: -12, y: -12.5}
+        - {x: 4, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 26, y: -9.5}
+        - {x: 26, y: 3.5}
+        - {x: 14, y: 12.5}
+    - name: Arcade - Rolling Thunder - Albatross_72
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 353
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20.5}
+        - {x: -17, y: 20.5}
+        - {x: -25, y: 15.5}
+        - {x: -25, y: 4.5}
+        - {x: -11, y: -20.5}
+        - {x: 6, y: -20.5}
+        - {x: 5, y: -17.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 1.5}
+    - name: Arcade - Rolling Thunder - Albatross_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 296
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 17.5}
+        - {x: -26, y: -17.5}
+        - {x: 21, y: -17.5}
+        - {x: 26, y: -15.5}
+        - {x: 26, y: 17.5}
+    - name: Arcade - Rolling Thunder - Albatross_74
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 289
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 24}
+        - {x: -22.5, y: 17}
+        - {x: -22.5, y: -3}
+        - {x: 3.5, y: -24}
+        - {x: 12.5, y: -24}
+        - {x: 22.5, y: -7}
+        - {x: 22.5, y: 24}
+    - name: Arcade - Rolling Thunder - Albatross_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 288
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 288
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_77
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 289
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 24}
+        - {x: -22.5, y: 22}
+        - {x: -22.5, y: -2}
+        - {x: -14.5, y: -24}
+        - {x: -4.5, y: -24}
+        - {x: 19.5, y: -9}
+        - {x: 22.5, y: -2}
+        - {x: 22.5, y: 24}
+    - name: Arcade - Rolling Thunder - Albatross_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 17.5}
+        - {x: -26, y: -13.5}
+        - {x: -4, y: -17.5}
+        - {x: 22, y: -17.5}
+        - {x: 26, y: 1.5}
+        - {x: 26, y: 17.5}
+    - name: Arcade - Rolling Thunder - Albatross_79
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 25.5}
+        - {x: -20, y: 25.5}
+        - {x: -20, y: -14.5}
+        - {x: -19, y: -25.5}
+        - {x: -6, y: -25.5}
+        - {x: 20, y: 7.5}
+        - {x: 20, y: 14.5}
+        - {x: 9, y: 23.5}
+    - name: Arcade - Rolling Thunder - Albatross_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 235
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -27, y: 2.5}
+        - {x: -27, y: -18.5}
+        - {x: 1, y: -18.5}
+        - {x: 12, y: -14.5}
+        - {x: 27, y: -5.5}
+        - {x: 27, y: 11.5}
+        - {x: 24, y: 18.5}
+    - name: Arcade - Rolling Thunder - Albatross_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 238
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 238
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 238
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_85
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 235
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -18.5}
+        - {x: 27, y: -18.5}
+        - {x: 27, y: -7.5}
+        - {x: 14, y: 18.5}
+        - {x: -22, y: 18.5}
+        - {x: -27, y: 10.5}
+        - {x: -27, y: -10.5}
+        - {x: 5, y: -18.5}
+        - {x: 18, y: -18.5}
+        - {x: 18, y: -17.5}
+        - {x: 15, y: -13.5}
+        - {x: 17, y: -15.5}
+    - name: Arcade - Rolling Thunder - Albatross_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 228
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 14.5}
+        - {x: -20, y: 3.5}
+        - {x: 8, y: -25.5}
+        - {x: 16, y: -25.5}
+        - {x: 20, y: 3.5}
+        - {x: 20, y: 25.5}
+        - {x: 8, y: 25.5}
+        - {x: -8, y: 20.5}
+    - name: Arcade - Rolling Thunder - Albatross_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 168
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 25}
+        - {x: -16.5, y: 23}
+        - {x: -16.5, y: -7}
+        - {x: -6.5, y: -25}
+        - {x: 13.5, y: -25}
+        - {x: 16.5, y: -19}
+        - {x: 16.5, y: 18}
+        - {x: 9.5, y: 25}
+    - name: Arcade - Rolling Thunder - Albatross_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.5}
+        - {x: -23, y: 12.5}
+        - {x: -23, y: -1.5}
+        - {x: -10, y: -21.5}
+        - {x: -9, y: -22.5}
+        - {x: 9, y: -22.5}
+        - {x: 23, y: 4.5}
+        - {x: 23, y: 12.5}
+        - {x: 8, y: 22.5}
+    - name: Arcade - Rolling Thunder - Albatross_89
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 174
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_90
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 174
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 174
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_92
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 174
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 171
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22.5}
+        - {x: -23, y: 13.5}
+        - {x: -23, y: 5.5}
+        - {x: -8, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 23, y: 4.5}
+        - {x: 23, y: 10.5}
+        - {x: 10, y: 22.5}
+    - name: Arcade - Rolling Thunder - Albatross_94
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 168
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 25}
+        - {x: -15.5, y: 20}
+        - {x: -16.5, y: 10}
+        - {x: -16.5, y: -2}
+        - {x: -10.5, y: -25}
+        - {x: 8.5, y: -25}
+        - {x: 16.5, y: -2}
+        - {x: 16.5, y: 12}
+        - {x: 13.5, y: 25}
+    - name: Arcade - Rolling Thunder - Albatross_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 106
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_99
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 106
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_100
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 104
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 17.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -19.5, y: -1.5}
+        - {x: -15.5, y: -3.5}
+        - {x: -9.5, y: -16.5}
+        - {x: -8.5, y: -17.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: -11.5}
+        - {x: 2.5, y: 17.5}
+    - name: Arcade - Rolling Thunder - Albatross_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -18}
+        - {x: 16, y: 18}
+        - {x: -16, y: 18}
+        - {x: -16, y: -18}
+    - name: Arcade - Rolling Thunder - Albatross_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 44
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 44
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 55
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18}
+        - {x: -11, y: 7}
+        - {x: -16, y: -11}
+        - {x: -16, y: -18}
+        - {x: 15, y: -18}
+        - {x: 16, y: -14}
+        - {x: 16, y: 18}
+    - name: Arcade - Rolling Thunder - Albatross_106
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 56
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 17.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -23.5, y: -12.5}
+        - {x: -23.5, y: -17.5}
+        - {x: 8.5, y: -17.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 23.5, y: 3.5}
+        - {x: 23.5, y: 17.5}
+    - name: Arcade - Rolling Thunder - Albatross_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Arcade - Rolling Thunder - Albatross_108
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4968 @@
+fileFormatVersion: 2
+guid: d286c45e6d75ae04abfacb072dec2ee0
+timeCreated: 1453557370
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DF-Graphics_0
+    21300002: DF-Graphics_1
+    21300004: DF-Graphics_2
+    21300006: DF-Graphics_3
+    21300008: DF-Graphics_4
+    21300010: DF-Graphics_5
+    21300012: DF-Graphics_6
+    21300014: DF-Graphics_7
+    21300016: DF-Graphics_8
+    21300018: DF-Graphics_9
+    21300020: DF-Graphics_10
+    21300022: DF-Graphics_11
+    21300024: DF-Graphics_12
+    21300026: DF-Graphics_13
+    21300028: DF-Graphics_14
+    21300030: DF-Graphics_15
+    21300032: DF-Graphics_16
+    21300034: DF-Graphics_17
+    21300036: DF-Graphics_18
+    21300038: DF-Graphics_19
+    21300040: DF-Graphics_20
+    21300042: DF-Graphics_21
+    21300044: DF-Graphics_22
+    21300046: DF-Graphics_23
+    21300048: DF-Graphics_24
+    21300050: DF-Graphics_25
+    21300052: DF-Graphics_26
+    21300054: DF-Graphics_27
+    21300056: DF-Graphics_28
+    21300058: DF-Graphics_29
+    21300060: DF-Graphics_30
+    21300062: DF-Graphics_31
+    21300064: DF-Graphics_32
+    21300066: DF-Graphics_33
+    21300068: DF-Graphics_34
+    21300070: DF-Graphics_35
+    21300072: DF-Graphics_36
+    21300074: DF-Graphics_37
+    21300076: DF-Graphics_38
+    21300078: DF-Graphics_39
+    21300080: DF-Graphics_40
+    21300082: DF-Graphics_41
+    21300084: DF-Graphics_42
+    21300086: DF-Graphics_43
+    21300088: DF-Graphics_44
+    21300090: DF-Graphics_45
+    21300092: DF-Graphics_46
+    21300094: DF-Graphics_47
+    21300096: DF-Graphics_48
+    21300098: DF-Graphics_49
+    21300100: DF-Graphics_50
+    21300102: DF-Graphics_51
+    21300104: DF-Graphics_52
+    21300106: DF-Graphics_53
+    21300108: DF-Graphics_54
+    21300110: DF-Graphics_55
+    21300112: DF-Graphics_56
+    21300114: DF-Graphics_57
+    21300116: DF-Graphics_58
+    21300118: DF-Graphics_59
+    21300120: DF-Graphics_60
+    21300122: DF-Graphics_61
+    21300124: DF-Graphics_62
+    21300126: DF-Graphics_63
+    21300128: DF-Graphics_64
+    21300130: DF-Graphics_65
+    21300132: DF-Graphics_66
+    21300134: DF-Graphics_67
+    21300136: DF-Graphics_68
+    21300138: DF-Graphics_69
+    21300140: DF-Graphics_70
+    21300142: DF-Graphics_71
+    21300144: DF-Graphics_72
+    21300146: DF-Graphics_73
+    21300148: DF-Graphics_74
+    21300150: DF-Graphics_75
+    21300152: DF-Graphics_76
+    21300154: DF-Graphics_77
+    21300156: DF-Graphics_78
+    21300158: DF-Graphics_79
+    21300160: DF-Graphics_80
+    21300162: DF-Graphics_81
+    21300164: DF-Graphics_82
+    21300166: DF-Graphics_83
+    21300168: DF-Graphics_84
+    21300170: DF-Graphics_85
+    21300172: DF-Graphics_86
+    21300174: DF-Graphics_87
+    21300176: DF-Graphics_88
+    21300178: DF-Graphics_89
+    21300180: DF-Graphics_90
+    21300182: DF-Graphics_91
+    21300184: DF-Graphics_92
+    21300186: DF-Graphics_93
+    21300188: DF-Graphics_94
+    21300190: DF-Graphics_95
+    21300192: DF-Graphics_96
+    21300194: DF-Graphics_97
+    21300196: DF-Graphics_98
+    21300198: DF-Graphics_99
+    21300200: DF-Graphics_100
+    21300202: DF-Graphics_101
+    21300204: DF-Graphics_102
+    21300206: DF-Graphics_103
+    21300208: DF-Graphics_104
+    21300210: DF-Graphics_105
+    21300212: DF-Graphics_106
+    21300214: DF-Graphics_107
+    21300216: DF-Graphics_108
+    21300218: DF-Graphics_109
+    21300220: DF-Graphics_110
+    21300222: DF-Graphics_111
+    21300224: DF-Graphics_112
+    21300226: DF-Graphics_113
+    21300228: DF-Graphics_114
+    21300230: DF-Graphics_115
+    21300232: DF-Graphics_116
+    21300234: DF-Graphics_117
+    21300236: DF-Graphics_118
+    21300238: DF-Graphics_119
+    21300240: DF-Graphics_120
+    21300242: DF-Graphics_121
+    21300244: DF-Graphics_122
+    21300246: DF-Graphics_123
+    21300248: DF-Graphics_124
+    21300250: DF-Graphics_125
+    21300252: DF-Graphics_126
+    21300254: DF-Graphics_127
+    21300256: DF-Graphics_128
+    21300258: DF-Graphics_129
+    21300260: DF-Graphics_130
+    21300262: DF-Graphics_131
+    21300264: DF-Graphics_132
+    21300266: DF-Graphics_133
+    21300268: DF-Graphics_134
+    21300270: DF-Graphics_135
+    21300272: DF-Graphics_136
+    21300274: DF-Graphics_137
+    21300276: DF-Graphics_138
+    21300278: DF-Graphics_139
+    21300280: DF-Graphics_140
+    21300282: DF-Graphics_141
+    21300284: DF-Graphics_142
+    21300286: DF-Graphics_143
+    21300288: DF-Graphics_144
+    21300290: DF-Graphics_145
+    21300292: DF-Graphics_146
+    21300294: DF-Graphics_147
+    21300296: DF-Graphics_148
+    21300298: DF-Graphics_149
+    21300300: DF-Graphics_150
+    21300302: DF-Graphics_151
+    21300304: DF-Graphics_152
+    21300306: DF-Graphics_153
+    21300308: DF-Graphics_154
+    21300310: DF-Graphics_155
+    21300312: DF-Graphics_156
+    21300314: DF-Graphics_157
+    21300316: DF-Graphics_158
+    21300318: DF-Graphics_159
+    21300320: DF-Graphics_160
+    21300322: DF-Graphics_161
+    21300324: DF-Graphics_162
+    21300326: DF-Graphics_163
+    21300328: DF-Graphics_164
+    21300330: DF-Graphics_165
+    21300332: DF-Graphics_166
+    21300334: DF-Graphics_167
+    21300336: DF-Graphics_168
+    21300338: DF-Graphics_169
+    21300340: DF-Graphics_170
+    21300342: DF-Graphics_171
+    21300344: DF-Graphics_172
+    21300346: DF-Graphics_173
+    21300348: DF-Graphics_174
+    21300350: DF-Graphics_175
+    21300352: DF-Graphics_176
+    21300354: DF-Graphics_177
+    21300356: DF-Graphics_178
+    21300358: DF-Graphics_179
+    21300360: DF-Graphics_180
+    21300362: DF-Graphics_181
+    21300364: DF-Graphics_182
+    21300366: DF-Graphics_183
+    21300368: DF-Graphics_184
+    21300370: DF-Graphics_185
+    21300372: DF-Graphics_186
+    21300374: DF-Graphics_187
+    21300376: DF-Graphics_188
+    21300378: DF-Graphics_189
+    21300380: DF-Graphics_190
+    21300382: DF-Graphics_191
+    21300384: DF-Graphics_192
+    21300386: DF-Graphics_193
+    21300388: DF-Graphics_194
+    21300390: DF-Graphics_195
+    21300392: DF-Graphics_196
+    21300394: DF-Graphics_197
+    21300396: DF-Graphics_198
+    21300398: DF-Graphics_199
+    21300400: DF-Graphics_200
+    21300402: DF-Graphics_201
+    21300404: DF-Graphics_202
+    21300406: DF-Graphics_203
+    21300408: DF-Graphics_204
+    21300410: DF-Graphics_205
+    21300412: DF-Graphics_206
+    21300414: DF-Graphics_207
+    21300416: DF-Graphics_208
+    21300418: DF-Graphics_209
+    21300420: DF-Graphics_210
+    21300422: DF-Graphics_211
+    21300424: DF-Graphics_212
+    21300426: DF-Graphics_213
+    21300428: DF-Graphics_214
+    21300430: DF-Graphics_215
+    21300432: DF-Graphics_216
+    21300434: DF-Graphics_217
+    21300436: DF-Graphics_218
+    21300438: DF-Graphics_219
+    21300440: DF-Graphics_220
+    21300442: DF-Graphics_221
+    21300444: DF-Graphics_222
+    21300446: DF-Graphics_223
+    21300448: DF-Graphics_224
+    21300450: DF-Graphics_225
+    21300452: DF-Graphics_226
+    21300454: DF-Graphics_227
+    21300456: DF-Graphics_228
+    21300458: DF-Graphics_229
+    21300460: DF-Graphics_230
+    21300462: DF-Graphics_231
+    21300464: DF-Graphics_232
+    21300466: DF-Graphics_233
+    21300468: DF-Graphics_234
+    21300470: DF-Graphics_235
+    21300472: DF-Graphics_236
+    21300474: DF-Graphics_237
+    21300476: DF-Graphics_238
+    21300478: DF-Graphics_239
+    21300480: DF-Graphics_240
+    21300482: DF-Graphics_241
+    21300484: DF-Graphics_242
+    21300486: DF-Graphics_243
+    21300488: DF-Graphics_244
+    21300490: DF-Graphics_245
+    21300492: DF-Graphics_246
+    21300494: DF-Graphics_247
+    21300496: DF-Graphics_248
+    21300498: DF-Graphics_249
+    21300500: DF-Graphics_250
+    21300502: DF-Graphics_251
+    21300504: DF-Graphics_252
+    21300506: DF-Graphics_253
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DF-Graphics_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -12, y: 8}
+        - {x: -12, y: -10}
+        - {x: -4, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -15}
+        - {x: 12, y: -11}
+        - {x: 12, y: 8}
+        - {x: 10, y: 14}
+    - name: DF-Graphics_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -9, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -10}
+        - {x: -9, y: -11}
+        - {x: -5, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -8}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+    - name: DF-Graphics_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 11}
+        - {x: -8, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -3}
+        - {x: -11, y: -4}
+        - {x: -1, y: -13}
+        - {x: 1, y: -13}
+        - {x: 11, y: -3}
+        - {x: 12, y: 1}
+        - {x: 12, y: 7}
+    - name: DF-Graphics_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -4, y: 11}
+        - {x: -10, y: 2}
+        - {x: -10, y: -6}
+        - {x: -2, y: -13}
+        - {x: 1, y: -13}
+        - {x: 9, y: -6}
+        - {x: 9, y: 2}
+        - {x: 7, y: 6}
+    - name: DF-Graphics_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -6}
+        - {x: -7, y: -13}
+        - {x: 7, y: -13}
+        - {x: 11, y: -12}
+        - {x: 11, y: 2}
+        - {x: 6, y: 11}
+        - {x: -5, y: 11}
+        - {x: -12, y: 1}
+    - name: DF-Graphics_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -11, y: 0}
+        - {x: -11, y: -10}
+        - {x: -6, y: -13}
+        - {x: 5, y: -13}
+        - {x: 10, y: -9}
+        - {x: 10, y: 0}
+        - {x: 4, y: 11}
+    - name: DF-Graphics_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -6}
+        - {x: -6, y: -10}
+        - {x: 6, y: -10}
+        - {x: 10, y: -6}
+        - {x: 10, y: 6}
+        - {x: 6, y: 10}
+    - name: DF-Graphics_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: -7, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -8, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -5}
+        - {x: 14, y: 5}
+        - {x: 13, y: 8}
+    - name: DF-Graphics_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -13, y: 3}
+        - {x: -13, y: -10}
+        - {x: -10, y: -11}
+        - {x: 4, y: -11}
+        - {x: 11, y: 3}
+        - {x: 11, y: 10}
+        - {x: 9, y: 12}
+    - name: DF-Graphics_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -11, y: 11}
+        - {x: -11, y: -5}
+        - {x: -10, y: -12}
+        - {x: -5, y: -15}
+        - {x: 5, y: -15}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+        - {x: 7, y: 12}
+    - name: DF-Graphics_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -6, y: 13}
+        - {x: -11, y: -5}
+        - {x: -11, y: -12}
+        - {x: -8, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -7}
+        - {x: 8, y: 10}
+        - {x: 5, y: 14}
+    - name: DF-Graphics_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: -13}
+        - {x: -9, y: -15}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 14}
+    - name: DF-Graphics_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -14, y: 8}
+        - {x: -14, y: -7}
+        - {x: -10, y: -12}
+        - {x: -9, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 14}
+    - name: DF-Graphics_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+      - - {x: -9, y: 9}
+        - {x: 9, y: 9}
+        - {x: 9, y: -9}
+        - {x: -9, y: -9}
+    - name: DF-Graphics_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: DF-Graphics_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -13}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 9}
+        - {x: 13, y: 16}
+    - name: DF-Graphics_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 5}
+        - {x: -11, y: -3}
+        - {x: 0, y: -16}
+        - {x: 5, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 2}
+        - {x: 10, y: 5}
+    - name: DF-Graphics_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -5, y: 7}
+        - {x: -6, y: 3}
+        - {x: -11, y: 1}
+        - {x: -11, y: -7}
+        - {x: 5, y: -7}
+        - {x: 11, y: 1}
+        - {x: 11, y: 6}
+        - {x: 7, y: 14}
+    - name: DF-Graphics_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 11}
+        - {x: -13, y: 0}
+        - {x: -13, y: -5}
+        - {x: -8, y: -11}
+        - {x: 5, y: -11}
+        - {x: 8, y: -10}
+        - {x: 8, y: 11}
+    - name: DF-Graphics_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5}
+        - {x: 0, y: -11}
+        - {x: 10, y: -11}
+        - {x: 13, y: -10}
+        - {x: 13, y: 2}
+        - {x: 5, y: 11}
+        - {x: -8, y: 11}
+    - name: DF-Graphics_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -9, y: 10}
+        - {x: -9, y: -2}
+        - {x: -3, y: -7}
+        - {x: 12, y: -7}
+        - {x: 13, y: -5}
+        - {x: 13, y: 3}
+        - {x: 5, y: 14}
+    - name: DF-Graphics_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 5}
+        - {x: -11, y: -3}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 2, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 5}
+    - name: DF-Graphics_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 2}
+        - {x: 6, y: 8}
+        - {x: 1, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -12}
+        - {x: -6, y: -14}
+        - {x: -3, y: -14}
+        - {x: -1, y: -12}
+        - {x: 6, y: -9}
+        - {x: 13, y: -2}
+    - name: DF-Graphics_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 7}
+        - {x: -5, y: 7}
+        - {x: -11, y: 4}
+        - {x: -11, y: -3}
+        - {x: -5, y: -12}
+        - {x: 4, y: -15}
+        - {x: 10, y: -15}
+        - {x: 10, y: 1}
+    - name: DF-Graphics_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -9, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -10}
+        - {x: -9, y: -11}
+        - {x: -5, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -8}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+    - name: DF-Graphics_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -10, y: -7}
+        - {x: -10, y: -9}
+        - {x: -8, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -8}
+        - {x: 2, y: 9}
+    - name: DF-Graphics_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -10, y: 7}
+        - {x: -2, y: -10}
+        - {x: 2, y: -10}
+        - {x: 10, y: 6}
+        - {x: 10, y: 8}
+        - {x: 8, y: 9}
+    - name: DF-Graphics_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -5, y: 12}
+        - {x: -5, y: -9}
+        - {x: -4, y: -10}
+        - {x: 5, y: -10}
+        - {x: 5, y: 11}
+        - {x: 4, y: 13}
+    - name: DF-Graphics_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -7, y: 7}
+        - {x: -7, y: 1}
+        - {x: 4, y: 1}
+        - {x: 7, y: 4}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 10}
+        - {x: 12, y: 14}
+    - name: DF-Graphics_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: -8}
+        - {x: -11, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -8}
+        - {x: 13, y: 11}
+        - {x: 8, y: 13}
+    - name: DF-Graphics_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 8}
+        - {x: 11, y: 12}
+    - name: DF-Graphics_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 4}
+        - {x: 8, y: 6}
+        - {x: 6, y: 13}
+        - {x: -5, y: 13}
+        - {x: -9, y: 11}
+        - {x: -9, y: -6}
+        - {x: -4, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+    - name: DF-Graphics_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -3, y: 11}
+        - {x: -4, y: 3}
+        - {x: -2, y: 1}
+        - {x: 2, y: 1}
+        - {x: 5, y: 6}
+        - {x: 5, y: 13}
+    - name: DF-Graphics_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -6, y: 4}
+        - {x: -6, y: -5}
+        - {x: -2, y: -11}
+        - {x: 6, y: -11}
+        - {x: 6, y: 14}
+    - name: DF-Graphics_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -6, y: 12}
+        - {x: -5, y: 9}
+        - {x: -6, y: 0}
+        - {x: -6, y: -9}
+        - {x: -5, y: -11}
+        - {x: 2, y: -11}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+        - {x: 3, y: 14}
+    - name: DF-Graphics_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 11}
+        - {x: -11, y: -10}
+        - {x: -9, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 11}
+    - name: DF-Graphics_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -2}
+        - {x: -6, y: -10}
+        - {x: -6, y: -13}
+        - {x: -4, y: -14}
+        - {x: 1, y: -14}
+        - {x: 4, y: -9}
+        - {x: 4, y: -1}
+    - name: DF-Graphics_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 4}
+        - {x: -14, y: 1}
+        - {x: -14, y: -1}
+        - {x: -11, y: -4}
+        - {x: 11, y: -4}
+        - {x: 14, y: -1}
+        - {x: 14, y: 1}
+        - {x: 11, y: 4}
+    - name: DF-Graphics_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -1}
+        - {x: -5, y: -8}
+        - {x: -4, y: -11}
+        - {x: 4, y: -11}
+        - {x: 5, y: -8}
+        - {x: 5, y: -1}
+    - name: DF-Graphics_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -10, y: -5}
+        - {x: -10, y: -8}
+        - {x: -8, y: -10}
+        - {x: -5, y: -10}
+        - {x: 10, y: 5}
+        - {x: 10, y: 8}
+        - {x: 8, y: 10}
+    - name: DF-Graphics_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -8, y: 11}
+        - {x: -8, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 12}
+        - {x: 6, y: 13}
+    - name: DF-Graphics_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 4}
+        - {x: 6, y: 12}
+    - name: DF-Graphics_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -8, y: 11}
+        - {x: -8, y: -9}
+        - {x: -7, y: -10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 11}
+        - {x: 4, y: 13}
+    - name: DF-Graphics_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -7, y: 10}
+        - {x: -8, y: 4}
+        - {x: -8, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -7}
+        - {x: 8, y: 11}
+        - {x: 4, y: 13}
+    - name: DF-Graphics_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -8, y: 2}
+        - {x: -8, y: -6}
+        - {x: -7, y: -7}
+        - {x: 1, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: -7}
+        - {x: 9, y: 2}
+        - {x: 6, y: 12}
+    - name: DF-Graphics_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 5}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -7}
+        - {x: 8, y: 12}
+    - name: DF-Graphics_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -6, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 8}
+        - {x: 6, y: 13}
+    - name: DF-Graphics_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 12}
+        - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: 8}
+        - {x: -6, y: -10}
+        - {x: 1, y: -10}
+        - {x: 6, y: -2}
+        - {x: 8, y: 3}
+        - {x: 8, y: 10}
+    - name: DF-Graphics_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -5, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -8}
+        - {x: -7, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -9}
+        - {x: 8, y: 9}
+        - {x: 3, y: 13}
+    - name: DF-Graphics_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -5, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -7}
+        - {x: -6, y: -10}
+        - {x: 7, y: -10}
+        - {x: 8, y: -7}
+        - {x: 8, y: 11}
+        - {x: 5, y: 13}
+    - name: DF-Graphics_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -1}
+        - {x: -5, y: -8}
+        - {x: -4, y: -11}
+        - {x: 4, y: -11}
+        - {x: 5, y: -8}
+        - {x: 5, y: -1}
+      - - {x: -2, y: 11}
+        - {x: -5, y: 8}
+        - {x: -5, y: 4}
+        - {x: -2, y: 1}
+        - {x: 2, y: 1}
+        - {x: 5, y: 4}
+        - {x: 5, y: 8}
+        - {x: 2, y: 11}
+    - name: DF-Graphics_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -1}
+        - {x: -5, y: -4}
+        - {x: -5, y: -12}
+        - {x: -4, y: -13}
+        - {x: 2, y: -13}
+        - {x: 4, y: -11}
+        - {x: 4, y: -1}
+      - - {x: -2, y: 11}
+        - {x: -5, y: 8}
+        - {x: -5, y: 4}
+        - {x: -2, y: 1}
+        - {x: 2, y: 1}
+        - {x: 5, y: 4}
+        - {x: 5, y: 8}
+        - {x: 2, y: 11}
+    - name: DF-Graphics_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 9}
+        - {x: -8, y: 6}
+        - {x: -9, y: 3}
+        - {x: -9, y: -3}
+        - {x: -7, y: -4}
+        - {x: 4, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+    - name: DF-Graphics_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -4}
+        - {x: -12, y: -6}
+        - {x: -12, y: -10}
+        - {x: -10, y: -12}
+        - {x: -6, y: -12}
+        - {x: -4, y: -10}
+        - {x: -4, y: -6}
+        - {x: -6, y: -4}
+      - - {x: 6, y: -4}
+        - {x: 4, y: -6}
+        - {x: 4, y: -10}
+        - {x: 6, y: -12}
+        - {x: 10, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: -6}
+        - {x: 10, y: -4}
+      - - {x: -10, y: 12}
+        - {x: -12, y: 10}
+        - {x: -12, y: 6}
+        - {x: -10, y: 4}
+        - {x: -6, y: 4}
+        - {x: -4, y: 6}
+        - {x: -4, y: 10}
+        - {x: -6, y: 12}
+      - - {x: 6, y: 12}
+        - {x: 4, y: 10}
+        - {x: 4, y: 6}
+        - {x: 6, y: 4}
+        - {x: 10, y: 4}
+        - {x: 12, y: 6}
+        - {x: 12, y: 10}
+        - {x: 10, y: 12}
+    - name: DF-Graphics_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: -2, y: -9}
+        - {x: 7, y: -4}
+        - {x: 9, y: -3}
+        - {x: 9, y: 2}
+        - {x: 8, y: 5}
+    - name: DF-Graphics_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -2, y: 13}
+        - {x: -7, y: 11}
+        - {x: -7, y: 6}
+        - {x: -5, y: -9}
+        - {x: -2, y: -10}
+        - {x: 2, y: -10}
+        - {x: 3, y: -8}
+        - {x: 8, y: 5}
+        - {x: 8, y: 9}
+    - name: DF-Graphics_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -11, y: -13}
+        - {x: 5, y: -13}
+        - {x: 12, y: -5}
+        - {x: 12, y: 12}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -5, y: 12}
+        - {x: -10, y: -5}
+        - {x: -10, y: -8}
+        - {x: -8, y: -9}
+        - {x: 10, y: -9}
+        - {x: 10, y: -3}
+        - {x: 4, y: 13}
+    - name: DF-Graphics_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -8, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -7}
+        - {x: 8, y: 10}
+        - {x: 5, y: 13}
+    - name: DF-Graphics_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 8}
+        - {x: -9, y: -3}
+        - {x: -7, y: -9}
+        - {x: -6, y: -10}
+        - {x: 9, y: -10}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 13}
+        - {x: -10, y: 13}
+        - {x: -10, y: -10}
+        - {x: 7, y: -10}
+        - {x: 10, y: -5}
+        - {x: 10, y: 6}
+        - {x: 8, y: 12}
+    - name: DF-Graphics_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -7, y: -9}
+        - {x: 6, y: -9}
+        - {x: 7, y: -7}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -7, y: 11}
+        - {x: -7, y: -8}
+        - {x: -5, y: -9}
+        - {x: 2, y: -9}
+        - {x: 7, y: -3}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 6}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+        - {x: -5, y: 13}
+        - {x: -10, y: 8}
+        - {x: -10, y: -3}
+        - {x: -7, y: -10}
+        - {x: 5, y: -10}
+        - {x: 10, y: -8}
+        - {x: 10, y: 3}
+        - {x: 8, y: 5}
+        - {x: 1, y: 5}
+    - name: DF-Graphics_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -7, y: -9}
+        - {x: 7, y: -9}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 0}
+        - {x: -9, y: -10}
+        - {x: 7, y: -10}
+        - {x: 9, y: -8}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 4}
+        - {x: 8, y: 13}
+    - name: DF-Graphics_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -9}
+        - {x: 7, y: -9}
+        - {x: 7, y: 6}
+        - {x: 5, y: 13}
+        - {x: -7, y: 13}
+    - name: DF-Graphics_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -11, y: -9}
+        - {x: 11, y: -9}
+        - {x: 11, y: 13}
+    - name: DF-Graphics_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -9, y: 12}
+        - {x: -9, y: -7}
+        - {x: -7, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 8}
+        - {x: 8, y: 13}
+        - {x: -5, y: 13}
+        - {x: -11, y: 10}
+        - {x: -11, y: -7}
+        - {x: -5, y: -11}
+        - {x: 4, y: -11}
+        - {x: 7, y: -10}
+        - {x: 10, y: -7}
+        - {x: 11, y: -4}
+    - name: DF-Graphics_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -8, y: 13}
+        - {x: -8, y: -7}
+        - {x: -6, y: -9}
+        - {x: -3, y: -9}
+        - {x: 4, y: -3}
+        - {x: 8, y: 2}
+        - {x: 8, y: 12}
+    - name: DF-Graphics_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -5, y: 13}
+        - {x: -11, y: 11}
+        - {x: -11, y: -2}
+        - {x: -6, y: -10}
+        - {x: 4, y: -12}
+        - {x: 9, y: -12}
+        - {x: 11, y: -8}
+        - {x: 11, y: 0}
+        - {x: 10, y: 7}
+    - name: DF-Graphics_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+        - {x: 4, y: 13}
+        - {x: -9, y: 13}
+    - name: DF-Graphics_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -8, y: 10}
+        - {x: -8, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -8}
+        - {x: 8, y: 13}
+    - name: DF-Graphics_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: -9}
+        - {x: 4, y: -9}
+        - {x: 9, y: 8}
+        - {x: 9, y: 11}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: -3}
+        - {x: -5, y: -10}
+        - {x: 4, y: -10}
+        - {x: 9, y: -7}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -1}
+        - {x: -4, y: -9}
+        - {x: 5, y: -9}
+        - {x: 10, y: 5}
+        - {x: 10, y: 13}
+    - name: DF-Graphics_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -13, y: -3}
+        - {x: -9, y: -9}
+        - {x: 11, y: -9}
+        - {x: 13, y: 0}
+        - {x: 13, y: 13}
+    - name: DF-Graphics_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -11, y: -10}
+        - {x: 11, y: -10}
+        - {x: 11, y: 11}
+        - {x: 9, y: 12}
+    - name: DF-Graphics_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -9, y: 5}
+        - {x: -4, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -8}
+        - {x: 9, y: 3}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -9, y: 10}
+        - {x: -9, y: -9}
+        - {x: 7, y: -9}
+        - {x: 9, y: -8}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -4, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+        - {x: 6, y: 14}
+    - name: DF-Graphics_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: 5}
+        - {x: 3, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -9}
+        - {x: 10, y: -5}
+        - {x: -5, y: 10}
+        - {x: -8, y: 10}
+    - name: DF-Graphics_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 14}
+        - {x: -8, y: 12}
+        - {x: -8, y: -12}
+        - {x: 4, y: -12}
+        - {x: 4, y: 14}
+    - name: DF-Graphics_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 5}
+        - {x: -9, y: 2}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 9, y: 5}
+        - {x: 5, y: 12}
+    - name: DF-Graphics_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -6}
+        - {x: -11, y: -14}
+        - {x: 11, y: -14}
+        - {x: 11, y: -6}
+    - name: DF-Graphics_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -4, y: 9}
+        - {x: -4, y: 1}
+        - {x: 4, y: 1}
+        - {x: 5, y: 6}
+        - {x: 5, y: 12}
+        - {x: 3, y: 13}
+    - name: DF-Graphics_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: -6, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 6}
+        - {x: 3, y: 8}
+    - name: DF-Graphics_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 8, y: -6}
+        - {x: 8, y: 9}
+        - {x: 2, y: 14}
+    - name: DF-Graphics_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 8}
+        - {x: -2, y: 8}
+        - {x: -7, y: 3}
+        - {x: -7, y: -5}
+        - {x: -2, y: -10}
+        - {x: 4, y: -10}
+        - {x: 7, y: -9}
+        - {x: 7, y: 6}
+    - name: DF-Graphics_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -8, y: 7}
+        - {x: -8, y: -5}
+        - {x: -7, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 13}
+        - {x: 6, y: 14}
+    - name: DF-Graphics_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -4}
+        - {x: -5, y: -9}
+        - {x: -1, y: -10}
+        - {x: 4, y: -10}
+        - {x: 7, y: -8}
+        - {x: 8, y: 3}
+        - {x: 4, y: 8}
+    - name: DF-Graphics_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -8, y: 10}
+        - {x: -8, y: -1}
+        - {x: -5, y: -9}
+        - {x: 2, y: -9}
+        - {x: 8, y: 0}
+        - {x: 8, y: 13}
+        - {x: 5, y: 14}
+    - name: DF-Graphics_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 8}
+        - {x: -3, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -10}
+        - {x: -6, y: -15}
+        - {x: 3, y: -15}
+        - {x: 8, y: -11}
+        - {x: 8, y: 6}
+    - name: DF-Graphics_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 3}
+        - {x: 6, y: 11}
+        - {x: -1, y: 14}
+        - {x: -8, y: 14}
+        - {x: -8, y: -8}
+        - {x: -6, y: -9}
+        - {x: 8, y: -9}
+    - name: DF-Graphics_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 13}
+        - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: -2}
+        - {x: 4, y: 11}
+    - name: DF-Graphics_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -7, y: 8}
+        - {x: -7, y: -14}
+        - {x: 3, y: -14}
+        - {x: 5, y: -13}
+        - {x: 5, y: 12}
+        - {x: 3, y: 13}
+    - name: DF-Graphics_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -8, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 14}
+    - name: DF-Graphics_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 4}
+        - {x: -2, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 6}
+        - {x: 6, y: 14}
+        - {x: -6, y: 14}
+        - {x: -8, y: 12}
+    - name: DF-Graphics_107
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 6}
+        - {x: 10, y: 8}
+        - {x: -11, y: 8}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -9, y: -9}
+        - {x: 10, y: -9}
+        - {x: 12, y: -8}
+    - name: DF-Graphics_108
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: -6, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 3}
+    - name: DF-Graphics_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 8}
+        - {x: -4, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -5}
+        - {x: -7, y: -10}
+        - {x: 5, y: -10}
+        - {x: 8, y: -5}
+        - {x: 9, y: 1}
+        - {x: 8, y: 5}
+    - name: DF-Graphics_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 8}
+        - {x: -6, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -6, y: -15}
+        - {x: 1, y: -15}
+        - {x: 7, y: -11}
+        - {x: 8, y: -6}
+        - {x: 8, y: 6}
+    - name: DF-Graphics_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 1, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -14}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -7, y: 7}
+        - {x: -7, y: -8}
+        - {x: -5, y: -10}
+        - {x: 0, y: -10}
+        - {x: 7, y: -1}
+        - {x: 7, y: 7}
+        - {x: 4, y: 9}
+    - name: DF-Graphics_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6}
+        - {x: -7, y: -9}
+        - {x: -5, y: -10}
+        - {x: 7, y: -10}
+        - {x: 7, y: 8}
+        - {x: -3, y: 8}
+    - name: DF-Graphics_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -3}
+        - {x: -7, y: -8}
+        - {x: -3, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 11}
+        - {x: 5, y: 12}
+    - name: DF-Graphics_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -5}
+        - {x: -4, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 2}
+        - {x: -4, y: -9}
+        - {x: 2, y: -9}
+        - {x: 4, y: -8}
+        - {x: 8, y: 1}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 8}
+        - {x: -12, y: 7}
+        - {x: -12, y: 4}
+        - {x: -9, y: -6}
+        - {x: -8, y: -9}
+        - {x: 9, y: -9}
+        - {x: 12, y: -4}
+        - {x: 12, y: 8}
+    - name: DF-Graphics_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -6, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -14}
+        - {x: -7, y: -15}
+        - {x: 0, y: -15}
+        - {x: 8, y: -4}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -9}
+        - {x: 8, y: -9}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -8}
+        - {x: -3, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 15}
+    - name: DF-Graphics_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -4, y: -14}
+        - {x: 1, y: -14}
+        - {x: 4, y: -13}
+        - {x: 4, y: 12}
+        - {x: 1, y: 14}
+    - name: DF-Graphics_123
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 15}
+        - {x: -7, y: 15}
+        - {x: -7, y: -12}
+        - {x: 2, y: -12}
+        - {x: 3, y: -10}
+        - {x: 8, y: -4}
+        - {x: 8, y: 4}
+    - name: DF-Graphics_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: 8, y: -6}
+        - {x: 11, y: -5}
+        - {x: 11, y: 4}
+        - {x: 10, y: 6}
+        - {x: -10, y: 6}
+        - {x: -10, y: -2}
+    - name: DF-Graphics_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -8, y: 2}
+        - {x: -8, y: -8}
+        - {x: -6, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 4}
+        - {x: 2, y: 9}
+    - name: DF-Graphics_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 12}
+        - {x: -12, y: 9}
+        - {x: -12, y: -9}
+        - {x: -9, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 12}
+    - name: DF-Graphics_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 14}
+        - {x: -9, y: -14}
+        - {x: 0, y: -14}
+        - {x: 9, y: -5}
+        - {x: 9, y: 6}
+        - {x: 2, y: 14}
+    - name: DF-Graphics_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -11, y: 5}
+        - {x: -11, y: -3}
+        - {x: -10, y: -7}
+        - {x: -7, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -8}
+        - {x: 10, y: 6}
+        - {x: 8, y: 10}
+    - name: DF-Graphics_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -16}
+        - {x: 15, y: 10}
+        - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 6}
+        - {x: -15, y: -16}
+    - name: DF-Graphics_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 15}
+        - {x: -3, y: 15}
+        - {x: -8, y: 11}
+        - {x: -8, y: -1}
+        - {x: -6, y: -9}
+        - {x: -2, y: -10}
+        - {x: 2, y: -10}
+        - {x: 4, y: -8}
+        - {x: 8, y: 5}
+        - {x: 8, y: 10}
+    - name: DF-Graphics_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 12}
+        - {x: -10, y: 12}
+        - {x: -13, y: 7}
+        - {x: -13, y: -1}
+        - {x: -11, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: -8}
+        - {x: 10, y: -6}
+        - {x: 7, y: -2}
+        - {x: 9, y: -4}
+    - name: DF-Graphics_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -10}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 16}
+    - name: DF-Graphics_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 12}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: 14, y: -12}
+        - {x: 16, y: -10}
+        - {x: 16, y: 8}
+        - {x: 12, y: 12}
+    - name: DF-Graphics_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -8}
+        - {x: -5, y: -10}
+        - {x: 5, y: -10}
+        - {x: 9, y: -3}
+        - {x: 9, y: 5}
+        - {x: 0, y: 16}
+    - name: DF-Graphics_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14}
+        - {x: -10, y: 10}
+        - {x: -10, y: -13}
+        - {x: -6, y: -14}
+        - {x: 9, y: -14}
+        - {x: 10, y: -13}
+        - {x: 10, y: 8}
+        - {x: 9, y: 14}
+    - name: DF-Graphics_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -9, y: 8}
+        - {x: -9, y: -9}
+        - {x: -7, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -9}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: DF-Graphics_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -10, y: 7}
+        - {x: -10, y: -2}
+        - {x: -7, y: -9}
+        - {x: 7, y: -9}
+        - {x: 11, y: -1}
+        - {x: 11, y: 7}
+        - {x: 7, y: 11}
+    - name: DF-Graphics_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 9}
+        - {x: -12, y: 9}
+        - {x: -12, y: -1}
+        - {x: -11, y: -3}
+        - {x: -2, y: -9}
+        - {x: 5, y: -9}
+        - {x: 12, y: 0}
+        - {x: 12, y: 6}
+    - name: DF-Graphics_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -9, y: 11}
+        - {x: -9, y: -11}
+        - {x: -7, y: -12}
+        - {x: 7, y: -12}
+        - {x: 8, y: -8}
+        - {x: 8, y: 13}
+        - {x: 6, y: 14}
+    - name: DF-Graphics_153
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -14, y: -5}
+        - {x: -12, y: -12}
+        - {x: 9, y: -12}
+        - {x: 15, y: -4}
+        - {x: 15, y: 13}
+        - {x: 14, y: 15}
+    - name: DF-Graphics_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -12}
+        - {x: -9, y: -13}
+        - {x: -4, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 16}
+    - name: DF-Graphics_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -10}
+        - {x: 8, y: -10}
+        - {x: 11, y: -8}
+        - {x: 11, y: 8}
+        - {x: 4, y: 14}
+    - name: DF-Graphics_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -8, y: 2}
+        - {x: -8, y: -13}
+        - {x: 0, y: -13}
+        - {x: 6, y: -10}
+        - {x: 9, y: 2}
+        - {x: 9, y: 13}
+    - name: DF-Graphics_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -9, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -10}
+        - {x: -9, y: -11}
+        - {x: -5, y: -12}
+        - {x: 7, y: -12}
+        - {x: 10, y: -8}
+        - {x: 12, y: -5}
+        - {x: 12, y: 5}
+    - name: DF-Graphics_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -12, y: 11}
+        - {x: -12, y: -8}
+        - {x: -6, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 13}
+    - name: DF-Graphics_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -9, y: 7}
+        - {x: -9, y: -7}
+        - {x: -5, y: -10}
+        - {x: 5, y: -10}
+        - {x: 9, y: -9}
+        - {x: 9, y: 16}
+    - name: DF-Graphics_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -7, y: 10}
+        - {x: -7, y: 1}
+        - {x: -5, y: -4}
+        - {x: 5, y: -4}
+        - {x: 7, y: -3}
+        - {x: 7, y: 8}
+        - {x: 6, y: 13}
+    - name: DF-Graphics_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 16}
+    - name: DF-Graphics_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 12}
+    - name: DF-Graphics_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -12, y: 4}
+        - {x: -11, y: 3}
+        - {x: 5, y: -11}
+        - {x: 8, y: -12}
+        - {x: 11, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 10}
+        - {x: 10, y: 12}
+    - name: DF-Graphics_169
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 10}
+        - {x: 6, y: 13}
+        - {x: 4, y: 13}
+        - {x: -1, y: 14}
+        - {x: -13, y: 14}
+        - {x: -14, y: 12}
+        - {x: -14, y: 0}
+        - {x: -10, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 1}
+        - {x: 11, y: 2}
+    - name: DF-Graphics_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -12}
+        - {x: 5, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: -2}
+        - {x: 13, y: 1}
+        - {x: 10, y: 2}
+        - {x: 6, y: 2}
+        - {x: 1, y: -5}
+      - - {x: -15, y: 14}
+        - {x: -15, y: -7}
+        - {x: -8, y: -13}
+        - {x: -3, y: -13}
+        - {x: -1, y: -12}
+        - {x: 9, y: 5}
+        - {x: 9, y: 10}
+        - {x: 7, y: 14}
+    - name: DF-Graphics_171
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -3, y: 12}
+        - {x: -6, y: 11}
+        - {x: -6, y: -13}
+        - {x: -4, y: -14}
+        - {x: 6, y: -14}
+        - {x: 6, y: 0}
+        - {x: 5, y: 11}
+    - name: DF-Graphics_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -2}
+        - {x: -6, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 8}
+    - name: DF-Graphics_173
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -7}
+        - {x: 4, y: -7}
+        - {x: 8, y: -1}
+        - {x: 8, y: 2}
+        - {x: 4, y: 8}
+    - name: DF-Graphics_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -16}
+        - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -4, y: -16}
+    - name: DF-Graphics_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 16}
+        - {x: -4, y: 16}
+        - {x: -16, y: 4}
+    - name: DF-Graphics_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -16}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: 0}
+        - {x: -6, y: 4}
+        - {x: -16, y: 4}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 7}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -6}
+        - {x: 0, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -6}
+        - {x: -6, y: -2}
+        - {x: -16, y: -2}
+      - - {x: 2, y: 16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -6, y: 2}
+        - {x: -2, y: 6}
+        - {x: -2, y: 16}
+    - name: DF-Graphics_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -16}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -6}
+        - {x: -6, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -6, y: 2}
+        - {x: -2, y: 6}
+        - {x: -2, y: 16}
+    - name: DF-Graphics_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -6, y: -4}
+        - {x: -2, y: 0}
+        - {x: -2, y: 16}
+    - name: DF-Graphics_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 0, y: 2}
+        - {x: 4, y: 6}
+        - {x: 4, y: 16}
+    - name: DF-Graphics_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 0}
+        - {x: 0, y: 4}
+        - {x: -16, y: 4}
+    - name: DF-Graphics_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -4, y: 0}
+        - {x: 0, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: 5, y: 16}
+    - name: DF-Graphics_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+    - name: DF-Graphics_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: -16, y: 4}
+    - name: DF-Graphics_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+    - name: DF-Graphics_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: -16, y: 4}
+    - name: DF-Graphics_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -16}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -2, y: 16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: 6}
+        - {x: 6, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+      - - {x: 2, y: -6}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 6, y: -2}
+    - name: DF-Graphics_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -6, y: 2}
+        - {x: -2, y: 6}
+        - {x: -2, y: 16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: 6}
+        - {x: 6, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_201
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -6}
+        - {x: -6, y: -2}
+        - {x: -16, y: -2}
+      - - {x: 2, y: -6}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 6, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -16}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 2, y: -6}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 6, y: -2}
+      - - {x: 2, y: 16}
+        - {x: 2, y: 6}
+        - {x: 6, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_203
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_204
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -6}
+        - {x: -6, y: -2}
+        - {x: -16, y: -2}
+      - - {x: 2, y: -6}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 6, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -6, y: 2}
+        - {x: -2, y: 6}
+        - {x: -2, y: 16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: 6}
+        - {x: 6, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -7}
+        - {x: -2, y: 16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: 0}
+        - {x: 6, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -7, y: 16}
+      - - {x: -4, y: 16}
+        - {x: -4, y: 6}
+        - {x: 0, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_211
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -7, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+      - - {x: -4, y: -6}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 0, y: -2}
+    - name: DF-Graphics_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: 16, y: 7}
+        - {x: 16, y: 16}
+      - - {x: 2, y: 0}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 6, y: 4}
+    - name: DF-Graphics_213
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -16}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 2, y: 16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: -16, y: -2}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_215
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -4}
+        - {x: 0, y: -4}
+        - {x: 4, y: 0}
+        - {x: 4, y: 16}
+    - name: DF-Graphics_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+        - {x: 0, y: 4}
+    - name: DF-Graphics_217
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_218
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: -16, y: 2}
+    - name: DF-Graphics_219
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -16}
+        - {x: 2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: DF-Graphics_220
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_221
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -9, y: 6}
+        - {x: -9, y: -2}
+        - {x: -8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 9, y: -6}
+        - {x: 9, y: 8}
+        - {x: 8, y: 9}
+    - name: DF-Graphics_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -8, y: 12}
+        - {x: -8, y: -15}
+        - {x: 0, y: -15}
+        - {x: 9, y: -7}
+        - {x: 9, y: 12}
+        - {x: 4, y: 13}
+    - name: DF-Graphics_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 10}
+        - {x: -12, y: -11}
+        - {x: -10, y: -12}
+        - {x: -4, y: -12}
+        - {x: 12, y: 4}
+        - {x: 12, y: 10}
+    - name: DF-Graphics_225
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: -14, y: 14}
+        - {x: -16, y: 12}
+        - {x: -16, y: 10}
+        - {x: -15, y: 8}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: 0}
+        - {x: 16, y: 12}
+    - name: DF-Graphics_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: 2, y: 16}
+        - {x: -11, y: 7}
+        - {x: -15, y: -7}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: -6, y: -16}
+        - {x: 9, y: -9}
+        - {x: 16, y: 3}
+        - {x: 16, y: 11}
+    - name: DF-Graphics_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -3}
+        - {x: -10, y: -11}
+        - {x: -8, y: -13}
+        - {x: 15, y: -13}
+        - {x: 16, y: -12}
+        - {x: 16, y: 8}
+    - name: DF-Graphics_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 13}
+        - {x: -5, y: 13}
+        - {x: -10, y: 10}
+        - {x: -12, y: 4}
+        - {x: -12, y: -6}
+        - {x: -8, y: -14}
+        - {x: 8, y: -14}
+        - {x: 11, y: -13}
+        - {x: 13, y: -5}
+        - {x: 13, y: 3}
+        - {x: 11, y: 8}
+    - name: DF-Graphics_229
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -1}
+        - {x: -1, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 6}
+        - {x: 7, y: 8}
+    - name: DF-Graphics_230
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: -12, y: 4}
+        - {x: -12, y: -6}
+        - {x: -11, y: -7}
+        - {x: 12, y: -7}
+        - {x: 13, y: -5}
+        - {x: 13, y: 5}
+        - {x: 3, y: 9}
+    - name: DF-Graphics_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_232
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: 6}
+        - {x: -14, y: -8}
+        - {x: -8, y: -14}
+        - {x: 9, y: -14}
+        - {x: 13, y: -8}
+        - {x: 16, y: 0}
+        - {x: 16, y: 14}
+    - name: DF-Graphics_233
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -9, y: 8}
+        - {x: -9, y: -7}
+        - {x: -7, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -10}
+        - {x: 9, y: 10}
+        - {x: 7, y: 13}
+    - name: DF-Graphics_234
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 14}
+        - {x: -6, y: 14}
+        - {x: -9, y: 13}
+        - {x: -16, y: 3}
+        - {x: -16, y: -10}
+        - {x: -10, y: -16}
+        - {x: 4, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 0}
+        - {x: 13, y: 5}
+    - name: DF-Graphics_235
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -7, y: 10}
+        - {x: -10, y: 5}
+        - {x: -10, y: -5}
+        - {x: -4, y: -13}
+        - {x: 4, y: -13}
+        - {x: 10, y: -4}
+        - {x: 10, y: 5}
+    - name: DF-Graphics_236
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 10}
+        - {x: -16, y: -4}
+        - {x: -9, y: -11}
+        - {x: 12, y: -11}
+        - {x: 16, y: -10}
+        - {x: 16, y: 10}
+    - name: DF-Graphics_237
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: -4, y: 9}
+        - {x: -8, y: 6}
+        - {x: -8, y: -10}
+        - {x: 8, y: -10}
+        - {x: 8, y: 4}
+    - name: DF-Graphics_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 10}
+        - {x: -12, y: -10}
+        - {x: 12, y: -10}
+        - {x: 12, y: 10}
+    - name: DF-Graphics_239
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -9, y: 8}
+        - {x: -9, y: -10}
+        - {x: 9, y: -10}
+        - {x: 9, y: 9}
+        - {x: 6, y: 10}
+    - name: DF-Graphics_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -10, y: 13}
+        - {x: -12, y: 12}
+        - {x: -12, y: -7}
+        - {x: -8, y: -13}
+        - {x: 5, y: -13}
+        - {x: 12, y: -8}
+        - {x: 12, y: -1}
+        - {x: 9, y: 6}
+    - name: DF-Graphics_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 13}
+        - {x: -10, y: 3}
+        - {x: -12, y: -2}
+        - {x: -12, y: -7}
+        - {x: -6, y: -13}
+        - {x: 6, y: -13}
+        - {x: 9, y: -12}
+        - {x: 12, y: -8}
+        - {x: 12, y: 13}
+    - name: DF-Graphics_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: -4, y: 8}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 10, y: 9}
+        - {x: 10, y: 13}
+        - {x: 7, y: 15}
+    - name: DF-Graphics_243
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -4, y: 14}
+        - {x: -10, y: -8}
+        - {x: -10, y: -14}
+        - {x: -7, y: -15}
+        - {x: 0, y: -15}
+        - {x: 4, y: -11}
+        - {x: 4, y: 16}
+    - name: DF-Graphics_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DF-Graphics_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 8}
+        - {x: -11, y: -8}
+        - {x: 11, y: -8}
+        - {x: 11, y: 8}
+    - name: DF-Graphics_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -6, y: 3}
+        - {x: -3, y: 0}
+        - {x: 1, y: 0}
+        - {x: 6, y: 3}
+        - {x: 6, y: 9}
+        - {x: 2, y: 13}
+        - {x: -2, y: 13}
+    - name: DF-Graphics_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -6}
+        - {x: -6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+    - name: DF-Graphics_248
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -13, y: -3}
+        - {x: -12, y: -9}
+        - {x: -5, y: -13}
+        - {x: 11, y: -13}
+        - {x: 13, y: -7}
+        - {x: 13, y: 13}
+    - name: DF-Graphics_249
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 11}
+        - {x: -14, y: -8}
+        - {x: -10, y: -12}
+        - {x: -2, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 11}
+        - {x: 13, y: 16}
+    - name: DF-Graphics_250
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -6, y: 10}
+        - {x: -6, y: -2}
+        - {x: 4, y: -2}
+        - {x: 6, y: 0}
+        - {x: 6, y: 7}
+    - name: DF-Graphics_251
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -7}
+        - {x: -1, y: -8}
+        - {x: 2, y: -4}
+        - {x: 7, y: -3}
+        - {x: 9, y: -1}
+        - {x: 14, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 14}
+        - {x: 9, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -2}
+        - {x: -11, y: -2}
+        - {x: -9, y: 0}
+        - {x: -16, y: -11}
+        - {x: -16, y: -12}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: -4}
+        - {x: 10, y: -1}
+    - name: DF-Graphics_252
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+    - name: DF-Graphics_253
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 13}
+        - {x: -16, y: 13}
+        - {x: -16, y: -5}
+        - {x: -11, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
