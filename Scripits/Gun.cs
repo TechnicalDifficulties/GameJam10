@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class Gun : MonoBehaviour
 {
@@ -11,16 +12,23 @@ public class Gun : MonoBehaviour
 	public float curLaserWidth = 0.1f;
 	private float curLaserAlpha = 1f;
 	private Color currentColor = Color.red;
-	private bool red = true;
+	private bool red = false;
 	private bool green = false;
 	private bool blue = false;
 
 	public Vector3 hitPoint;
 	public float distance;
 
+	public bool toggle = false;
 
+	public Texture2D hold;
+	public Texture2D toggleUI;
+
+	public GameObject holdUI;
 	void Awake()
 	{
+		hold = Resources.Load ("UI_ToggleBox_Hold") as Texture2D;
+		toggleUI = Resources.Load ("UI_ToggleBox_Toggle") as Texture2D;
 		// Setting up the references.
 		anim = GetComponent<Animator>();
 		playerCtrl = transform.root.GetComponent<PlayerControl>();
@@ -29,16 +37,35 @@ public class Gun : MonoBehaviour
 	void Update ()
 	{
 		checkColor ();
-		laser.GetComponent<Renderer>().material.color = new Color(GetComponent<Renderer>().material.color.r, GetComponent<Renderer>().material.color.g, GetComponent<Renderer>().material.color.b,curLaserAlpha);
+		//laser.GetComponent<Renderer>().material.color = new Color(GetComponent<Renderer>().material.color.r, GetComponent<Renderer>().material.color.g, GetComponent<Renderer>().material.color.b,curLaserAlpha);
 	}
 
 	void checkColor () {
-		if (Input.GetKeyDown (KeyCode.Alpha1))
-			red = !red;
-		if (Input.GetKeyDown (KeyCode.Alpha2))
-			green = !green;
-		if (Input.GetKeyDown (KeyCode.Alpha3))
-			blue = !blue;
+		if (Input.GetKeyDown (KeyCode.R))
+			toggle = !toggle;
+		if (!toggle) {
+			holdUI.GetComponent<Image> ().sprite = Sprite.Create(hold, new Rect(0,0,hold.width, hold.height), new Vector2(0.5f, 0.5f));
+			if (Input.GetKey (KeyCode.Alpha1) || Input.GetMouseButton(0))
+				red = true;
+			else
+				red = false;
+			if (Input.GetKey (KeyCode.Alpha2)|| Input.GetMouseButton(2))
+				green = true;
+			else
+				green = false;
+			if (Input.GetKey (KeyCode.Alpha3)|| Input.GetMouseButton(1))
+				blue = true;
+			else
+				blue = false;
+		} else {
+			holdUI.GetComponent<Image> ().sprite = Sprite.Create(toggleUI, new Rect(0,0,toggleUI.width, toggleUI.height), new Vector2(0.5f, 0.5f));
+			if (Input.GetKeyDown (KeyCode.Alpha1)|| Input.GetMouseButtonDown(0))
+				red = !red;
+			if (Input.GetKeyDown (KeyCode.Alpha2)|| Input.GetMouseButtonDown(2))
+				green = !green;
+			if (Input.GetKeyDown (KeyCode.Alpha3)|| Input.GetMouseButtonDown(1))
+				blue = !blue;
+		}
 		if (red) {
 			if (blue) {
 				if (green) {
@@ -70,6 +97,7 @@ public class Gun : MonoBehaviour
 			changeColor (Color.clear);
 			currentColor = Color.clear;
 		}
+
 	}
 
 	void FixedUpdate ()
@@ -97,28 +125,37 @@ public class Gun : MonoBehaviour
 
 		direction = Vector3.Reflect ((Vector3)hit.point - transform.position, hit.normal);
 		RaycastHit2D hit2 = Physics2D.Raycast (hit.point, direction);
-		doReflection (hit, hit2, transform.position, 1);
+		if (hit.collider.gameObject.tag != "Ground") {
+			doReflection (hit, hit2, transform.position, 1);
 
-		if (currentColor != Color.clear) {
-			if (hit2.collider.gameObject.tag == "Tear") {
-				if (checkSweatColor (hit2.collider.gameObject.GetComponent<tearScript>().color)) {
-				} else {
-					hit2.collider.gameObject.GetComponent<tearScript>().hurt = true;
+			if (currentColor != Color.clear) {
+				if (hit2.collider.gameObject.tag == "Tear") {
+					if (checkSweatColor (hit2.collider.gameObject.GetComponent<tearScript> ().color)) {
+					} else {
+						hit2.collider.gameObject.GetComponent<tearScript> ().hurt = true;
+
+					}
+				} else if (hit2.collider.gameObject.tag == "PrepTear") {
+					if (checkSweatColor (hit2.collider.gameObject.GetComponent<prepTearScript> ().color)) {
+					} else {
+						Debug.Log ("hurting1");
+						hit2.collider.gameObject.GetComponent<prepTearScript> ().hurt = true;
+						//hit2.collider.gameObject.GetComponent<prepTearScript> ().hurting = false;
+					}
+				} else if (hit2.collider.gameObject.tag == "Sweat") {
+					if (checkSweatColor (hit2.collider.gameObject.GetComponent<sweatScript> ().color)) {
+					} else {
+						hit2.collider.gameObject.GetComponent<sweatScript> ().die ();
+					}
+				} else if (hit2.collider.gameObject.tag == "Balloon") {
+					if (checkSweatColor (hit2.collider.gameObject.GetComponent<balloonScript> ().color)) {
+					} else {
+						hit2.collider.gameObject.GetComponent<balloonScript> ().die ();
+					}
+				} else if (hit2.collider.gameObject.tag == "Hand") {
+					hit2.collider.gameObject.GetComponent<handScript> ().lasered = true;
+					hit2.collider.gameObject.GetComponent<handScript> ().hurt = true;
 				}
-			}
-			else if (hit2.collider.gameObject.tag == "PrepTear") {
-				if (checkSweatColor (hit2.collider.gameObject.GetComponent<prepTearScript>().color)) {
-				} else {
-					hit2.collider.gameObject.GetComponent<prepTearScript>().hurt = true;
-				}
-			}
-			else if (hit2.collider.gameObject.tag == "Sweat") {
-				if (checkSweatColor (hit2.collider.gameObject.GetComponent<sweatScript>().color)) {
-				} else {
-					Destroy (hit2.collider.gameObject);
-				}
-			} else if (hit2.collider.gameObject.tag == "Hand") {
-				hit2.collider.gameObject.GetComponent<handScript> ().lasered = true;
 			}
 		}
 
@@ -128,14 +165,20 @@ public class Gun : MonoBehaviour
 		if (currentColor != Color.clear) {
 			if (hit.collider.gameObject.tag == "Tear") {
 				if (checkSweatColor (hit.collider.gameObject.GetComponent<tearScript>().color)) {
+					laser.SetVertexCount (bounce + 2);
+					laser.SetPosition (bounce + 1, hit2.point);
 				} else {
 					hit.collider.gameObject.GetComponent<tearScript>().hurt = true;
 				}
 			}
 			else if (hit.collider.gameObject.tag == "PrepTear") {
 				if (checkSweatColor (hit.collider.gameObject.GetComponent<prepTearScript>().color)) {
+					laser.SetVertexCount (bounce + 2);
+					laser.SetPosition (bounce + 1, hit2.point);
 				} else {
+					Debug.Log ("hurting2");
 					hit.collider.gameObject.GetComponent<prepTearScript>().hurt = true;
+					//hit.collider.gameObject.GetComponent<prepTearScript> ().hurting = false;
 				}
 			}
 			if (hit.collider.gameObject.tag == "Sweat") {
@@ -143,10 +186,19 @@ public class Gun : MonoBehaviour
 					laser.SetVertexCount (bounce + 2);
 					laser.SetPosition (bounce + 1, hit2.point);
 				} else {
-					Destroy (hit.collider.gameObject);
+					hit.collider.gameObject.GetComponent<sweatScript> ().die ();
+				}
+			} else if (hit.collider.gameObject.tag == "Balloon") {
+				if (checkSweatColor (hit.collider.gameObject.GetComponent<balloonScript> ().color)) {
+					laser.SetVertexCount (bounce + 2);
+					laser.SetPosition (bounce + 1, hit2.point);
+				
+				} else {
+					hit.collider.gameObject.GetComponent<balloonScript> ().die ();
 				}
 			} else if (hit.collider.gameObject.tag == "Hand") {
 				hit.collider.gameObject.GetComponent<handScript> ().lasered = true;
+				hit.collider.gameObject.GetComponent<handScript> ().hurt = true;
 			} else if (hit.collider.gameObject.tag == "Lens") {
 				laser.SetVertexCount (bounce + 2);
 				laser.SetPosition (bounce + 1, hit2.point);
@@ -159,8 +211,10 @@ public class Gun : MonoBehaviour
 		laser.SetColors (c, c);
 	}
 
-	bool checkSweatColor (Color c){
-		Debug.Log ("Checking Sweat Color");
+	bool checkSweatColor (Color c) {
+		//Debug.Log ("checkSweatColor");
+		//Debug.Log ("prep color =" + c);
+		//Debug.Log ("laser color =" + currentColor);
 		if (c == Color.white) {
 			if (currentColor == Color.white) {
 				return false;
@@ -182,6 +236,7 @@ public class Gun : MonoBehaviour
 			}
 		} else if (c == Color.cyan) {
 			if (currentColor == Color.red) {
+				Debug.Log ("hit!");
 				return false;
 			}
 		} else if (c == Color.magenta) {

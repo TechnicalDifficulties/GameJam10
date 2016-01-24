@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class PlayerControl : MonoBehaviour {
 
@@ -10,12 +11,21 @@ public class PlayerControl : MonoBehaviour {
 	public float jumpForce = 1000f;
 	public Transform groundCheck;
 
-	public int health = 10;
+	private Sprite hold;
+	private Sprite toggle;
 
+	public GameObject holdUI;
+
+	public float health = 100;
+
+	public bool hurting = false;
+	public bool regening = false;
 
 	public bool grounded = false;
 	public Animator anim;
 	public Rigidbody2D rb2d;
+
+	public GameObject healthBar;
 
 
 	// Use this for initialization
@@ -23,15 +33,23 @@ public class PlayerControl : MonoBehaviour {
 	{
 		anim = GetComponent<Animator>();
 		rb2d = GetComponent<Rigidbody2D>();
+
+
+	}
+
+	void Start (){
+		//StartCoroutine (regenerate ());
+
 	}
 
 	// Update is called once per frame
 	void Update () 
 	{
+		
 		if (this != null) {
 			grounded = Physics2D.Linecast (transform.position, groundCheck.position, 1 << LayerMask.NameToLayer ("Ground"));
 
-			if (Input.GetButtonDown ("Jump") && grounded) {
+			if (Input.GetButtonDown ("Jump") && grounded || Input.GetKeyDown(KeyCode.UpArrow) && grounded) {
 				jump = true;
 			}
 		}
@@ -40,10 +58,18 @@ public class PlayerControl : MonoBehaviour {
 	void FixedUpdate()
 	{
 		if (this != null) {
-			
-			float h = Input.GetAxis ("Horizontal");
+			healthBar.transform.localScale = new Vector3 (1,health / 100, 1);
+			if(!regening)
+				StartCoroutine(regenerate ());
+			if (!grounded) {
+				anim.SetBool ("Jump", true);
+			} else {
+				anim.SetBool ("Jump", false);
+			}
 
-			anim.SetFloat ("Speed", Mathf.Abs (h));
+	
+
+			float h = Input.GetAxis ("Horizontal");
 
 			if (h * rb2d.velocity.x < maxSpeed)
 				rb2d.AddForce (Vector2.right * h * moveForce);
@@ -57,12 +83,21 @@ public class PlayerControl : MonoBehaviour {
 				Flip ();
 
 			if (jump) {
-				anim.SetTrigger ("Jump");
 				rb2d.AddForce (new Vector2 (0f, jumpForce));
 				jump = false;
 			}
 			checkDeath ();
 		}
+	}
+
+	IEnumerator regenerate(){
+		regening = true;
+		while (health < 100) {
+			yield return new WaitForSeconds (1f);
+			health++;
+		}
+		regening = false;
+		StopCoroutine ("regenerate");
 	}
 
 
@@ -74,9 +109,30 @@ public class PlayerControl : MonoBehaviour {
 		transform.localScale = theScale;
 	}
 
-	public void hurt () {
-		Debug.Log ("Player was hurt!");
-		health--;
+	public void hurt (int dmg) {
+		if (!hurting) {
+			StartCoroutine(takeDamage (dmg));
+			StartCoroutine(blink ());
+		}
+	}
+
+	IEnumerator blink(){
+		for (int i = 0; i < 10; i++) {
+			gameObject.GetComponent<SpriteRenderer> ().color = new Vector4 (1, 1, 1, 0);
+			yield return new WaitForSeconds (.1f);
+			gameObject.GetComponent<SpriteRenderer> ().color = new Vector4 (1, 1, 1, 1);
+			yield return new WaitForSeconds (.1f);
+		}
+		StopCoroutine ("blink");
+	}
+
+	IEnumerator takeDamage(int dmg){
+		hurting = true;
+		anim.SetTrigger ("Hurt");
+		health -= dmg;
+		yield return new WaitForSeconds (3f);
+		hurting = false;
+		StopCoroutine ("takeDamage");
 	}
 
 	void checkDeath(){

@@ -8,7 +8,14 @@ public class sweatScript : MonoBehaviour {
 	private GameObject gun;
 	private GameObject laser;
 
+	private GameObject steamResource;
+	private GameObject steam;
+
 	public Color color = Color.white;
+
+	void Awake () {
+		steamResource = Resources.Load ("Small Steam") as GameObject;
+	}
 
 	// Use this for initialization
 	void Start () {
@@ -32,10 +39,16 @@ public class sweatScript : MonoBehaviour {
 		fallDir = dir;
 	}
 
+	public void die(){
+		steam = (GameObject)Instantiate (steamResource, transform.position, transform.rotation);
+		steam.GetComponent<SpriteRenderer> ().color = color;
+		Destroy (gameObject);
+	}
+
 	void OnCollisionEnter2D (Collision2D col) {
 		if (col.gameObject.tag == "Player") {
-			Destroy (gameObject);
-			col.gameObject.GetComponent<PlayerControl>().hurt ();
+			col.gameObject.GetComponent<PlayerControl>().hurt (5);
+			die ();
 		}
 	}
 
