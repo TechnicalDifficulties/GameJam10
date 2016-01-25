@@ -13,14 +13,16 @@ public class lensScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 
 	public void hurt(){
-		audio1.Play ();
+		GetComponent<AudioSource> ().Play ();
 	}
 
 	public void die(){
-		audio2.Play ();
+		GetComponent<AudioSource> ().Play ();
+		GetComponent<SpriteRenderer> ().color = Color.clear;
+		GetComponent<CircleCollider2D> ().enabled = false;
 	}
 }

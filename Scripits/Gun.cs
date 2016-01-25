@@ -135,7 +135,10 @@ public class Gun : MonoBehaviour
 						hit2.collider.gameObject.GetComponent<tearScript> ().hurt = true;
 
 					}
-				} else if (hit2.collider.gameObject.tag == "PrepTear") {
+				} else if (hit2.collider.gameObject.tag == "Pupil"){
+					Debug.Log ("HIT!");
+					hit2.collider.gameObject.GetComponent<pupilScript> ().die ();
+				}else if (hit2.collider.gameObject.tag == "PrepTear") {
 					if (checkSweatColor (hit2.collider.gameObject.GetComponent<prepTearScript> ().color)) {
 					} else {
 						Debug.Log ("hurting1");
@@ -155,7 +158,7 @@ public class Gun : MonoBehaviour
 				} else if (hit2.collider.gameObject.tag == "Hand") {
 					hit2.collider.gameObject.GetComponent<handScript> ().lasered = true;
 					hit2.collider.gameObject.GetComponent<handScript> ().hurt = true;
-				}
+				} 
 			}
 		}
 
@@ -202,6 +205,9 @@ public class Gun : MonoBehaviour
 			} else if (hit.collider.gameObject.tag == "Lens") {
 				laser.SetVertexCount (bounce + 2);
 				laser.SetPosition (bounce + 1, hit2.point);
+			} else if (hit.collider.gameObject.tag == "Pupil"){
+				Debug.Log ("HIT2!");
+				hit.collider.gameObject.GetComponent<pupilScript> ().die ();
 			}
 		}
 	}

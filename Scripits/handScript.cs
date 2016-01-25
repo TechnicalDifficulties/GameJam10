@@ -12,6 +12,9 @@ public class handScript : MonoBehaviour {
 	private Vector2 startPos;
 	private bool dead = false;
 
+	public GameObject lens;
+	public GameObject pupil;
+
 	public GameObject graphic;
 	public GameObject eye;
 
@@ -64,9 +67,18 @@ public class handScript : MonoBehaviour {
 
 		if (!dead && health <= 0) {
 			dead = true;
-			monsterFace.GetComponent<Animator> ().SetTrigger ("Scream");
+			monsterFace.GetComponent<Animator> ().SetTrigger ("Pain");
 			GetComponent<AudioSource> ().Play ();
 
+
+		}
+
+		if (GetComponent<AudioSource> ().isPlaying) {
+			lens.GetComponent<SpriteRenderer> ().color = Color.clear;
+			pupil.GetComponent<SpriteRenderer> ().color = Color.clear;
+		} else {
+			lens.GetComponent<SpriteRenderer> ().color = Color.white;
+			pupil.GetComponent<SpriteRenderer> ().color = Color.white;
 		}
 	}
 
@@ -108,12 +120,14 @@ public class handScript : MonoBehaviour {
 		if (col.gameObject.tag == "Player") {
 			col.gameObject.GetComponent<PlayerControl> ().hurt (100);
 			Debug.Log ("Player got squished");
+			Application.LoadLevel("gameover");
 		}
 
 		if (col.gameObject.tag == "EyeBall") {
 			//Destroy (col.gameObject);
 			col.gameObject.SetActive(false);
 			Debug.Log ("Eye got squished");
+			Application.LoadLevel("gameover");
 		}
 	}
 

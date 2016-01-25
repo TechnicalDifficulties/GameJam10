@@ -129,6 +129,7 @@ public class PlayerControl : MonoBehaviour {
 	IEnumerator takeDamage(int dmg){
 		hurting = true;
 		anim.SetTrigger ("Hurt");
+		GetComponent<AudioSource> ().Play ();
 		health -= dmg;
 		yield return new WaitForSeconds (3f);
 		hurting = false;
@@ -138,7 +139,7 @@ public class PlayerControl : MonoBehaviour {
 	void checkDeath(){
 		if (health <= 0){
 			//Play Death Animation
-			Destroy (gameObject);
+			Application.LoadLevel("gameover");
 		}
 	}
 }

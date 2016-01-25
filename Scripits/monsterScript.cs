@@ -3,6 +3,7 @@ using System.Collections;
 
 public class monsterScript : MonoBehaviour {
 
+	public GameObject pupil;
 	private GameObject tearResource;
 	private GameObject prepTearResource;
 
@@ -42,6 +43,8 @@ public class monsterScript : MonoBehaviour {
 	public GameObject[] fingers = new GameObject[2];
 
 	private Color[] colors = new Color[7];
+
+
 
 	public int level = 0;
 
@@ -191,8 +194,11 @@ public class monsterScript : MonoBehaviour {
 		Debug.Log ("Monster was damaged");
 		level++;
 		lens.GetComponent<Animator> ().SetInteger ("level", level);
+		lens.GetComponent<lensScript> ().hurt ();
 		if (level == 6) {
 			lens.GetComponent<lensScript> ().die ();
+			pupil.GetComponent<CircleCollider2D> ().enabled = true;
+
 		}
 		spawnFinger ();
 	}

@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour {
 
 	public GameObject b7;
 
+	public AudioClip clip;
+
 	public int level = 0;
 	// Use this for initialization
 	void Start () {
@@ -48,6 +50,10 @@ public class GameManager : MonoBehaviour {
 
 	void increaseLevel (){
 		level++;
+		if (GetComponent<AudioSource> ().isPlaying)
+			GetComponent<AudioSource> ().Stop ();
+		GetComponent<AudioSource> ().clip = clip;
+		GetComponent<AudioSource> ().Play ();
 		monster.GetComponent<monsterScript> ().level++;
 	}
 }
